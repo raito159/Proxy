@@ -9,6 +9,7 @@ int main()
     for(i; i < 10; i++)
     {
         cout << "Hello world number " << i << " !" << endl;
+        cout << "FOURTH" << end;
     }
     
     return 0;
