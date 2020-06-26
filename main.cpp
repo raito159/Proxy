@@ -3,13 +3,7 @@
 using namespace std;
 
 int main()
-{   
-    int i = 0;
-
-    for(i; i < 10; i++)
-    {
-        cout << "Hello world numberrrr " << i << " !" << endl;
-    }
-    
+{
+    cout << "Hello man" << endl;
     return 0;
 }
