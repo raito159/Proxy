@@ -6,6 +6,6 @@ int main()
 {
     cout << "Hello man" << endl;
     cout << "Nothing" << endl;
-    cout << "test" << endl;
+    cout << "all" << endl;
     return 0;
 }
