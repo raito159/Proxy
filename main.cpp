@@ -4,7 +4,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello man" << endl;
-    cout << "haha" << endl;
+    int a = 0;
+
+    if(a)
+    {
+        cout << "Hello world" << endl;
+    }
     return 0;
 }
