@@ -4,11 +4,11 @@ using namespace std;
 
 int main()
 {
-    int a = 0;
+    int a = 1;
 
     if(a)
     {
-        cout << "Hello world" << endl;
+        cout << "Hello world2" << endl;
     }
     return 0;
 }
